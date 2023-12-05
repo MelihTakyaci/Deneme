@@ -1,0 +1,21 @@
+.b-1 {
+  background-image: url("../../assets/img/nyan-cat-sparkles.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fit {
+  object-fit: contain;
+}
+
+.aa {
+  font-size: 150px;
+  /*width: 100vh;*/
+  height: 90vh;
+}
+
+.bb {
+  font-size: 30px;
+  color: #fff!important;
+}
+
